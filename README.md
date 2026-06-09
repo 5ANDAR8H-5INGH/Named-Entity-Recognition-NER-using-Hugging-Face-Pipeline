@@ -1,4 +1,4 @@
-# 🏷️ Named Entity Recognition (NER) using Hugging Face Pipeline
+# Named Entity Recognition (NER) using Hugging Face Pipeline
 
 A Natural Language Processing (NLP) project that automatically identifies and classifies named entities from text using Hugging Face Transformers. The application extracts meaningful information such as people, organizations, locations, dates, and other entities from unstructured text.
 
@@ -25,7 +25,7 @@ This project leverages pre-trained transformer models from Hugging Face to perfo
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Language
 
