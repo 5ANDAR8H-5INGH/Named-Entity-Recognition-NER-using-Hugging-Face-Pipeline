@@ -38,7 +38,7 @@ This project leverages pre-trained transformer models from Hugging Face to perfo
 
 ---
 
-## 📌 Entity Categories
+## Entity Categories
 
 | Entity Type | Description                 |
 | ----------- | --------------------------- |
