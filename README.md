@@ -71,8 +71,6 @@ Through this project, I gained hands-on experience in:
 * Named Entity Recognition (NER)
 * Transformer-based Models
 * Hugging Face Pipelines
-* Text Preprocessing
-* Information Extraction
 * AI Model Deployment Concepts
 
 
